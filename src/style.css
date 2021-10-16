@@ -1,0 +1,45 @@
+.card-largura {
+ max-width: 18rem;
+}
+
+.img-carrossel-um {
+ object-fit: cover;
+ object-position: 0 80%;
+ height: 400px;
+}
+
+
+.img-carrossel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.botao-cor-especial {
+    background-color: gray;
+    color: white;
+}
+
+.borda-cor-especial {
+    border: none  ;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.rodape{
+    width: 125px;
+    height: 2px;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
